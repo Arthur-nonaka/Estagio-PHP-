@@ -1,42 +1,134 @@
 [
     {
-        "id": "26887",
-        "tipo": "multipla-escolha"
+        "aula": [
+            {
+                "id": "26887",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "72036",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "55497",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "81361",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "15517",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "13192",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "86546",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "34522",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "22059",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "76743",
+                "tipo": "multipla-escolha"
+            }
+        ]
     },
     {
-        "id": "72036",
-        "tipo": "multipla-escolha"
+        "aula2": [
+            {
+                "id": "26887",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "72036",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "55497",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "81361",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "15517",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "13192",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "86546",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "34522",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "22059",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "76743",
+                "tipo": "multipla-escolha"
+            }
+        ]
     },
     {
-        "id": "55497",
-        "tipo": "multipla-escolha"
-    },
-    {
-        "id": "81361",
-        "tipo": "multipla-escolha"
-    },
-    {
-        "id": "15517",
-        "tipo": "multipla-escolha"
-    },
-    {
-        "id": "13192",
-        "tipo": "multipla-escolha"
-    },
-    {
-        "id": "86546",
-        "tipo": "multipla-escolha"
-    },
-    {
-        "id": "34522",
-        "tipo": "multipla-escolha"
-    },
-    {
-        "id": "22059",
-        "tipo": "multipla-escolha"
-    },
-    {
-        "id": "76743",
-        "tipo": "multipla-escolha"
+        "aula3": [
+            {
+                "id": "26887",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "72036",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "55497",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "81361",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "15517",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "13192",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "86546",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "34522",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "22059",
+                "tipo": "multipla-escolha"
+            },
+            {
+                "id": "76743",
+                "tipo": "multipla-escolha"
+            }
+        ]
     }
 ]
